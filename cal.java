@@ -10,3 +10,4 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
+#lab02 cal code 
